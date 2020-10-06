@@ -2,7 +2,7 @@
 title: algae whisperer
 url: https://algaewhisperer.github.io/blog/
 paginate: 1
-baseurl: ""
+baseurl: "/blog"
 permalink: pretty
 
 # Gems

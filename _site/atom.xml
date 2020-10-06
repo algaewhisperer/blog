@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>algae whisperer</title>
- <link href="/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2020-10-05T19:21:00-07:00</updated>
+ <link href="/blog/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/blog/"/>
+ <updated>2020-10-05T19:23:27-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Cameron MacNair</name>
@@ -14,7 +14,7 @@
  
  <entry>
    <title>Vulnerability, the (rhizomatic?) structure of music, and product thinking</title>
-   <link href="http://localhost:4000/2020/10/05/vulnerability/"/>
+   <link href="http://localhost:4000/blog/2020/10/05/vulnerability/"/>
    <updated>2020-10-05T00:00:00-07:00</updated>
    <id>http://localhost:4000/2020/10/05/vulnerability</id>
    <content type="html">&lt;p&gt;Lately I’ve been reading &lt;a href=&quot;https://www.upress.umn.edu/book-division/books/a-thousand-plateaus&quot;&gt;A Thousand Plateaus, Capitalism and Schizophrenia&lt;/a&gt; by &lt;em&gt;Gilles Deleuze&lt;/em&gt; and &lt;em&gt;Félix Guattari&lt;/em&gt;. This work is about modes of knowledge and rhizomatic philosphy. Particularly, the multiplicities of being that is shared among us all.&lt;/p&gt;
