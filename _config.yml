@@ -2,7 +2,7 @@
 title: algae whisperer
 url: https://algaewhisperer.github.io/blog/
 paginate: 1
-baseurl: "/blog"
+baseurl: ""
 permalink: pretty
 
 # Gems
@@ -42,7 +42,7 @@ version: 3.0.0
 # Navbar page list
 nav:
   - title: Blog
-    url: /blog/archive
+    url: /archive
 
   - title: About
-    url: /blog/about
+    url: /about
