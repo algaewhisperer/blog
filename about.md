@@ -1,9 +1,14 @@
 ---
 layout: page
-title: music musings, software tids & bits, and other things
+title: 
 ---
 
-
+<h1>
+music musings, <br>
+software tids & bits, <br>
+and other things <br>
+</h1>
+<br><br>
 a blog about *navigating freedom* by Cameron MacNair
 
 
